@@ -44,3 +44,9 @@ to open your project. On iOS, follow on-screen instructions to get a link.
 To execute the unit tests manually:
 
     yarn jest
+
+## Debug
+
+Eslint is integrated in the project for syntax cleanup, use the following command to fix any syntax issues:
+
+    yarn lint --fix
